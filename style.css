@@ -1,0 +1,11 @@
+canvas {
+position: absolute;
+top: 200px;
+left: 300px;
+}
+body {
+background-image: url('https://scontent.fmex25-1.fna.fbcdn.net/v/t1.6435-9/180875934_3945916552169611_722307961865062280_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeFxbGyN5NXSZf4rUWlRKTEE3PHKSMyoiP3c8cpIzKiI_W6lNW8agvSf8Rk8Gt0GS2xVelwO6AOBwWCnazy4A7ym&_nc_ohc=jAZJntEztawAX_6PBTD&_nc_ht=scontent.fmex25-1.fna&oh=45ad1722b87a03d11280193ec6a589bc&oe=60B26497');
+background-position: center top;
+background-size: ;
+margin: 0;
+}
